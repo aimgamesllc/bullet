@@ -1,0 +1,29 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level": {
+        "id": "level",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzA0MDEwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDUwMTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNTAxMDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA1MDEwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDUwMTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNTAxMDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA1MDEwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDUwMTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNTAxMDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA1MDEwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDUwMTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNTAxMDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA1MDEwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDUwMTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNTA2MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA4MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tilePath3",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tilePath7",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tilePath9",
+            "sprites.castle.tilePath5"
+        ]
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
